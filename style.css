@@ -1,0 +1,43 @@
+/*
+Theme Name: Samara
+Theme URI: https://github.com/bilbo1363/samara-wp-theme
+Author: Samara Theme Team
+Author URI: https://github.com/bilbo1363
+Description: Современная блочная тема с поддержкой Full Site Editing
+Requires at least: 6.0
+Tested up to: 6.4
+Requires PHP: 7.4
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: samara
+*/
+
+/* Импорт стилей блоков */
+@import url('assets/css/blocks.css');
+
+/* Основные стили */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+}
+
+/* Контейнер */
+.site {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 1rem;
+}
+
+/* Изображения */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.wp-block-post-featured-image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
