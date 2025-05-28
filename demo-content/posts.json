@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "title": "Как создать современный сайт на WordPress",
+            "content": "<!-- wp:paragraph --><p>В этой статье мы рассмотрим основные этапы создания современного сайта на WordPress с использованием блочного редактора.</p><!-- /wp:paragraph -->",
+            "featured_image": "demo-content/images/post-1.jpg"
+        },
+        {
+            "title": "Оптимизация производительности WordPress",
+            "content": "<!-- wp:paragraph --><p>Узнайте, как улучшить производительность вашего сайта на WordPress с помощью простых, но эффективных методов.</p><!-- /wp:paragraph -->",
+            "featured_image": "demo-content/images/post-2.jpg"
+        },
+        {
+            "title": "Работа с блочным редактором WordPress",
+            "content": "<!-- wp:paragraph --><p>Подробное руководство по работе с блочным редактором WordPress и его возможностями.</p><!-- /wp:paragraph -->",
+            "featured_image": "demo-content/images/post-3.jpg"
+        }
+    ]
+}
